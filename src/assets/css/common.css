@@ -1,0 +1,8 @@
+/* 全局定义属性 */
+:root {
+  --primary-color: #ff9854;
+}
+
+body {
+  font-size: 14px;
+}  
